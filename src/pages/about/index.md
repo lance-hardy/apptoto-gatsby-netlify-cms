@@ -5,6 +5,8 @@ title: About ApptotoPronounced “App-Toh-Toh” (Like the dog)
 ---
 ### It all started with a haircut…
 
+![Frank Cort](/img/staff-frank-01.jpg "Frank Cort")
+
 Frank just needed a haircut. But the barbershop was packed when he walked in, so like most of us, he came back the next day.
 
 The place was empty. That’s when Apptoto was born.
