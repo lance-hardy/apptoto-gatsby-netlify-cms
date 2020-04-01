@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { IntegrationsPageTemplate } from '../../templates/about-page'
+import { IntegrationsPageTemplate } from '../../templates/integrations-page'
 
 const IntegrationsPagePreview = ({ entry, widgetFor }) => (
   <IntegrationsPageTemplate
