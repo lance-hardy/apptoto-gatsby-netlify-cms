@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Enhance Your Google Calendar
-image: /img/home-jumbotron.jpg
+image: /img/apptoto-hero-01.jpg
 heading: Enhance Your Google Calendar
 subheading: >-
   Automate appointment reminders, scheduling and communication for you and your
