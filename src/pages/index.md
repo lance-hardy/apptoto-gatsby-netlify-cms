@@ -7,7 +7,7 @@ subheading: >-
   Automate appointment reminders, scheduling and communication for you and your
   clients
 mainpitch:
-  title: Appointment Reminders
+  title: Appointment Reminders Are Great
   description: >-
     Become an appointment champion! Apptoto Reminders help eliminate no-shows.
     Save time and money by sending automated appointment reminders and
