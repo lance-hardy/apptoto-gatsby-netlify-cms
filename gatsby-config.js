@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Appointment Reminders, Messaging & Online Scheduling | Apptoto',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Reduce no-shows and save time with Apptoto’s online scheduling and appointment reminder software. Easily send automated text, voice and email reminders today!',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
