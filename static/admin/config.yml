@@ -50,6 +50,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+        - file: "src/pages/integrations/index.md"
+        label: "Integrations"
+        name: "integrations"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "integrations-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"
