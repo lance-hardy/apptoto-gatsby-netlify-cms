@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee without a conscience
+title: Enhance Your Google Calendar
 image: /img/home-jumbotron.jpg
-heading: Great coffee without a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Enhance Your Google Calendar
+subheading: >-
+  Automate appointment reminders, scheduling and communication for you and your
+  clients
 mainpitch:
   title: Why Kaldi
   description: >
